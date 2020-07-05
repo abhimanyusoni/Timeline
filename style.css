@@ -220,5 +220,8 @@
   #main_timeline .timeline .timeline_for_what.fourth {
     left: 73%;
   }
+  #main_timeline .timeline .timeline_for_what .timeline_arrow.first {
+    left: 18%;
+  }
 }
 /*# sourceMappingURL=style.css.map */
